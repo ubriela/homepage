@@ -1,0 +1,35 @@
+div#bubbleup {
+	margin: 50px auto 50px auto;
+	text-align: center;
+}
+
+div#bubbleup ul#menuBottom {
+    margin: 5px 0px;
+    list-style: none;
+    display: inline-block;
+}
+
+div#bubbleup ul#menuBottom li.bubbleup {
+    padding: 0px;
+    float: left;
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 48px;
+    height: 48px;
+}
+
+div#bubbleup ul#menuBottom li.bubbleup a.bubbleup {
+    position: absolute;
+}
+
+div#bubbleup ul#menuBottom li.bubbleup img.bubbleup {
+    position: absolute;
+    width: 48px;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0 8px 0 0;
+    border: none;
+    overflow: hidden;
+}

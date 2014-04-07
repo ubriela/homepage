@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	indexPageName=".html"
+
+>
+  <image imageURL="images/378974_2456045036045_1725610580_n.jpg"
+	thumbURL="thumbs/378974_2456045036045_1725610580_n.jpg"
+	linkURL="images/378974_2456045036045_1725610580_n.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\378974_2456045036045_1725610580_n.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[With my Professor @ ACM GIS 2011]]></caption>
+  </image>
+  <image imageURL="images/383117_2456045716062_780341384_n.jpg"
+	thumbURL="thumbs/383117_2456045716062_780341384_n.jpg"
+	linkURL="images/383117_2456045716062_780341384_n.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\383117_2456045716062_780341384_n.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[With Professor Hanan Samet @ ACM GIS 2011]]></caption>
+  </image>
+  <image imageURL="images/DSC_0001.jpg"
+	thumbURL="thumbs/DSC_0001.jpg"
+	linkURL="images/DSC_0001.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0001.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Utah Road trip 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0002.jpg"
+	thumbURL="thumbs/DSC_0002.jpg"
+	linkURL="images/DSC_0002.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0002.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Full moon 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0006.jpg"
+	thumbURL="thumbs/DSC_0006.jpg"
+	linkURL="images/DSC_0006.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0006.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Road trip to Yellowstone 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0010.jpg"
+	thumbURL="thumbs/DSC_0010.jpg"
+	linkURL="images/DSC_0010.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0010.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Hover Damp 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0012.jpg"
+	thumbURL="thumbs/DSC_0012.jpg"
+	linkURL="images/DSC_0012.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0012.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Camping @ Big Bear 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0016.jpg"
+	thumbURL="thumbs/DSC_0016.jpg"
+	linkURL="images/DSC_0016.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0016.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Grand Canyon]]></caption>
+  </image>
+  <image imageURL="images/DSC_0046.jpg"
+	thumbURL="thumbs/DSC_0046.jpg"
+	linkURL="images/DSC_0046.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0046.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Yellowstone 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0074.jpg"
+	thumbURL="thumbs/DSC_0074.jpg"
+	linkURL="images/DSC_0074.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0074.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Torrey Pines 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0079.jpg"
+	thumbURL="thumbs/DSC_0079.jpg"
+	linkURL="images/DSC_0079.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0079.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Escalante, Utah ]]></caption>
+  </image>
+  <image imageURL="images/DSC_0082.jpg"
+	thumbURL="thumbs/DSC_0082.jpg"
+	linkURL="images/DSC_0082.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0082.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Ho Chi Minh, Vietnam]]></caption>
+  </image>
+  <image imageURL="images/DSC_0088.jpg"
+	thumbURL="thumbs/DSC_0088.jpg"
+	linkURL="images/DSC_0088.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0088.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Joshua Tree 2011]]></caption>
+  </image>
+  <image imageURL="images/DSC_0093.jpg"
+	thumbURL="thumbs/DSC_0093.jpg"
+	linkURL="images/DSC_0093.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0093.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Las Vegas 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0096.jpg"
+	thumbURL="thumbs/DSC_0096.jpg"
+	linkURL="images/DSC_0096.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0096.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Jion Park 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0104.jpg"
+	thumbURL="thumbs/DSC_0104.jpg"
+	linkURL="images/DSC_0104.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0104.jpg">
+    <title><![CDATA[DSC_0104]]></title>
+    <caption><![CDATA[Torrey Pines 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0109.jpg"
+	thumbURL="thumbs/DSC_0109.jpg"
+	linkURL="images/DSC_0109.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0109.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Salt Lake city 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0117.jpg"
+	thumbURL="thumbs/DSC_0117.jpg"
+	linkURL="images/DSC_0117.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0117.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Utah 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0139.jpg"
+	thumbURL="thumbs/DSC_0139.jpg"
+	linkURL="images/DSC_0139.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0139.jpg">
+    <title><![CDATA[DSC_0139]]></title>
+    <caption><![CDATA[San Diego 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0144.jpg"
+	thumbURL="thumbs/DSC_0144.jpg"
+	linkURL="images/DSC_0144.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0144.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Antelop Istand 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0153.jpg"
+	thumbURL="thumbs/DSC_0153.jpg"
+	linkURL="images/DSC_0153.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0153.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Bryan Canyon, 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0154.jpg"
+	thumbURL="thumbs/DSC_0154.jpg"
+	linkURL="images/DSC_0154.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0154.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[San Diego, 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0166.jpg"
+	thumbURL="thumbs/DSC_0166.jpg"
+	linkURL="images/DSC_0166.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0166.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Teradata, 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0175.jpg"
+	thumbURL="thumbs/DSC_0175.jpg"
+	linkURL="images/DSC_0175.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0175.jpg">
+    <title><![CDATA[DSC_0175]]></title>
+    <caption><![CDATA[San Diego 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0186.jpg"
+	thumbURL="thumbs/DSC_0186.jpg"
+	linkURL="images/DSC_0186.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0186.jpg">
+    <title><![CDATA[DSC_0186]]></title>
+    <caption><![CDATA[San Diego 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0212.jpg"
+	thumbURL="thumbs/DSC_0212.jpg"
+	linkURL="images/DSC_0212.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0212.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Yellowstone 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0235.jpg"
+	thumbURL="thumbs/DSC_0235.jpg"
+	linkURL="images/DSC_0235.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0235.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Antelop Island 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0267.jpg"
+	thumbURL="thumbs/DSC_0267.jpg"
+	linkURL="images/DSC_0267.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0267.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[The J. Paul Getty Museum]]></caption>
+  </image>
+  <image imageURL="images/DSC_0276.jpg"
+	thumbURL="thumbs/DSC_0276.jpg"
+	linkURL="images/DSC_0276.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0276.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Brooklyn Bridge]]></caption>
+  </image>
+  <image imageURL="images/DSC_0283.jpg"
+	thumbURL="thumbs/DSC_0283.jpg"
+	linkURL="images/DSC_0283.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0283.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Mirror]]></caption>
+  </image>
+  <image imageURL="images/DSC_0288.jpg"
+	thumbURL="thumbs/DSC_0288.jpg"
+	linkURL="images/DSC_0288.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0288.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Yellowstone 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0290.jpg"
+	thumbURL="thumbs/DSC_0290.jpg"
+	linkURL="images/DSC_0290.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0290.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[New York 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0356.jpg"
+	thumbURL="thumbs/DSC_0356.jpg"
+	linkURL="images/DSC_0356.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0356.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[New York 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0370.jpg"
+	thumbURL="thumbs/DSC_0370.jpg"
+	linkURL="images/DSC_0370.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0370.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Laguna Beach]]></caption>
+  </image>
+  <image imageURL="images/DSC_0376.jpg"
+	thumbURL="thumbs/DSC_0376.jpg"
+	linkURL="images/DSC_0376.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0376.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[San Diego 2011]]></caption>
+  </image>
+  <image imageURL="images/DSC_0506.jpg"
+	thumbURL="thumbs/DSC_0506.jpg"
+	linkURL="images/DSC_0506.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0506.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[San Diego 2011]]></caption>
+  </image>
+  <image imageURL="images/DSC_0556.jpg"
+	thumbURL="thumbs/DSC_0556.jpg"
+	linkURL="images/DSC_0556.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0556.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Yellowstone 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0592.jpg"
+	thumbURL="thumbs/DSC_0592.jpg"
+	linkURL="images/DSC_0592.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0592.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[New York 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0616.jpg"
+	thumbURL="thumbs/DSC_0616.jpg"
+	linkURL="images/DSC_0616.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0616.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Yellowstone 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_0633.jpg"
+	thumbURL="thumbs/DSC_0633.jpg"
+	linkURL="images/DSC_0633.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0633.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Los Angeles, 2012]]></caption>
+  </image>
+  <image imageURL="images/DSC_0736.jpg"
+	thumbURL="thumbs/DSC_0736.jpg"
+	linkURL="images/DSC_0736.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0736.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Hiking]]></caption>
+  </image>
+  <image imageURL="images/DSC_0894.jpg"
+	thumbURL="thumbs/DSC_0894.jpg"
+	linkURL="images/DSC_0894.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0894.jpg">
+    <title><![CDATA[DSC_0894]]></title>
+    <caption><![CDATA[Teaching @ Vietnam]]></caption>
+  </image>
+  <image imageURL="images/DSC_0988.jpg"
+	thumbURL="thumbs/DSC_0988.jpg"
+	linkURL="images/DSC_0988.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0988.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[With my Professor @ Ho Chi Minh city]]></caption>
+  </image>
+  <image imageURL="images/DSC_0997.jpg"
+	thumbURL="thumbs/DSC_0997.jpg"
+	linkURL="images/DSC_0997.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_0997.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[With my Professor @ CIKM 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_1013.jpg"
+	thumbURL="thumbs/DSC_1013.jpg"
+	linkURL="images/DSC_1013.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_1013.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[New Year 2013]]></caption>
+  </image>
+  <image imageURL="images/DSC_1086.jpg"
+	thumbURL="thumbs/DSC_1086.jpg"
+	linkURL="images/DSC_1086.jpg"
+	linkTarget="_blank"
+	sourcePath="B:\Dropbox\Photos\my pics\DSC_1086.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[San Francisco, 2013]]></caption>
+  </image>
+</juiceboxgallery>

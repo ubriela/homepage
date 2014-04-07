@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> Hien To</title>
+	<meta name="description" content="Hien To's homepage">
+	<meta name="keywords" content="hiento, systems" />
+
+
+	<!-- Standard jquery css -->
+	<link rel="stylesheet" href="css/jquery-ui-1.8.13.custom.css" type="text/css">
+        <script type="text/javascript" src="js/jquery-1.6.1.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.8.13/js/jquery-ui-1.8.13.custom.min.js"></script>
+
+	<!--  Custom js -->
+	<script type="text/javascript" src="js/search.js"></script>
+	<script type="text/javascript" src="js/share.js"></script>
+	<script type="text/javascript" src="js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/jquery.bubbleup.js"></script>
+	<script type="text/javascript" src="js/cv.js"></script>
+
+	<!-- Custom css -->
+	<link rel="stylesheet" type="text/css" href="css/homepage.css">
+	<link rel="stylesheet" type="text/css" href="css/menu.css">
+	<link rel="stylesheet" type="text/css" href="css/socialmedia.css" />
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/bubbleup.css" />
+    </head>
+    <body onload="init()">
+		
+	<table id="homepageTable">
+            <tr>
+                <td id="top" colspan="2">
+
+                    <table id="topTable">
+			<tr>
+			    <td>
+				<!-- Top Menu -->
+				<div id="navi">
+				    <div id="menu" class="default">
+					<ul>
+					    <li><a href="#" onclick="load('home')">Home</a></li>
+					    <li><a href="#" onclick="load('project')">Projects</a></li>
+					    <li><a href="#" onclick="load('publication')">Publications</a></li>
+					    <li><a href="#" onclick="load('teaching')">Teaching</a></li>
+					    <li><a href="#" onclick="load('bio')">Bio</a></li>
+					    <li><a href="#" onclick="load('contact')">Contacts</a></li>
+					    <li><a href="#" onclick="load('other')">Others</a></li>
+					</ul>
+				    </div><!-- close menu -->
+				</div><!-- close navi -->
+			    </td>
+			</tr>
+		    </table>
+		</td>
+	    </tr>
+
+	    <tr valign="top">
+		<td id="leftCol">
+		    <!-- Description -->
+		    <p class="slideToggle">
+		    Hien To
+		    </p>
+		    <div id="description" class="panel">
+			<img id="avatar" src="image/avatar.jpg" style="float:left" />
+		    </div>
+
+		    <p class="slideToggle">Links</p>
+		    <div class="panel">
+			<p>
+			    <a href="http://hiento.wordpress.com/">Blog</a>
+			    </br>
+			    <a href="http://www.linkedin.com/pub/to-hien/16/39b/635">Linkedin</a>
+			    </br>
+			    <a href="https://www.facebook.com/ubriela">Facebook</a>
+			    </br>
+			    <a target="_blank" href="gallery.html">My Gallery</a>
+			    <div class="download-cv">
+				<a href="resources/HienTo-CV.pdf" target="_blank" title="Hien To CV">Download resumes</a>
+			    </div>
+			</p>
+		    </div>
+
+		    <!-- Blog stats -->
+
+<!--		    <p class="slideToggle">Stats</p>
+		    <div class="panel">
+			<p>0 people visited</p>
+		    </div>-->
+		</td>
+
+		<td id="centerCol">
+
+		</td>
+	    </tr>
+
+	    <tr>
+		<td id="buttom" colspan="3">
+		    <div id="bubbleup">
+			<ul id="menuBottom">
+			    <li class="bubbleup"> <a class="bubbleup" href="http://www.usc.edu/"><img class="bubbleup" src="image/usclogo.png" alt="University of Southern California"/></a> </li>
+			    <li class="bubbleup"> <a class="bubbleup" href="http://vng.com.vn/en/"> <img class="bubbleup" src="image/vnglogo.png" alt="VNG Coporation"/></a> </li>
+			    <li class="bubbleup"> <a class="bubbleup" href="http://hpcc.hut.edu.vn/"> <img class="bubbleup" src="image/hpclogo.png" alt="High Performance Computing Center at HUST"/></a> </li>
+			    <li class="bubbleup"> <a class="bubbleup" href="http://www.hut.edu.vn/web/hut/home;jsessionid=9C18F25B2933162F1ABD17D96F1CA17E"> <img class="bubbleup" src="image/vmglogo.jpg" alt="Vietnam Mobile Gateway"/></a> </li>
+			    <li class="bubbleup"> <a class="bubbleup" href="http://www.hut.edu.vn/web/hut/home;jsessionid=9C18F25B2933162F1ABD17D96F1CA17E"> <img class="bubbleup" src="image/hutlogo.png" alt="Hanoi University of Science and Technology"/></a> </li>
+			    <li class="bubbleup"> <a class="bubbleup" href="http://khoia0.com/"> <img class="bubbleup" src="image/khoia0.jpg" alt="Khoi Chuyen Toan - Tin Tong Hop"/></a> </li>
+			</ul>
+		    </div>
+		    <div style="clear: both;"></div>
+		</td>
+	    </tr>
+	</table>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+
+	<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+	<script>
+						var _gaq = [['_setAccount', 'UA-XXXXX-X'], ['_trackPageview']];
+						(function(d, t) {
+						    var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+						    g.src = '//www.google-analytics.com/ga.js';
+						    s.parentNode.insertBefore(g, s)
+						}(document, 'script'));
+	</script>
+
+	<script type="text/javascript">
+	    $(document).ready(function() {
+		// Top Menu
+
+		var menu = $('#menu'),
+			pos = menu.offset();
+
+		$(window).scroll(function() {
+		    if ($(this).scrollTop() > pos.top + menu.height() && menu.hasClass('default')) {
+			menu.fadeOut('fast', function() {
+			    $(this).removeClass('default').addClass('fixed').fadeIn('fast');
+			});
+		    } else if ($(this).scrollTop() <= pos.top && menu.hasClass('fixed')) {
+			menu.fadeOut('fast', function() {
+			    $(this).removeClass('fixed').addClass('default').fadeIn('fast');
+			});
+		    }
+		});
+
+		//  Slide toggle
+		$(".slideToggle").click(function() {
+		    $(this).next().toggle();
+		});
+	    });
+
+
+	    //  CV
+	    function load(opt)
+	    {
+		if (window.XMLHttpRequest)
+		{// code for IE7+, Firefox, Chrome, Opera, Safari
+		    xmlhttp = new XMLHttpRequest();
+		}
+		else
+		{// code for IE6, IE5
+		    xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		xmlhttp.onreadystatechange = function()
+		{
+		    if (xmlhttp.readyState == 4 && xmlhttp.status == 200)
+		    {
+			document.getElementById("centerCol").innerHTML = xmlhttp.responseText;
+		    }
+		}
+		switch (opt)
+		{
+		    case "home":
+			xmlhttp.open("GET", "home.html", true);
+			break;
+		    case "project":
+			xmlhttp.open("GET", "project.html", true);	
+			break;
+		    case "publication":
+			xmlhttp.open("GET", "publication.html", true);
+			break;
+		    case "teaching":
+			xmlhttp.open("GET", "teaching.html", true);
+			break;
+		    case "bio":
+			xmlhttp.open("GET", "bio.html", true);
+			break;
+		    case "contact":
+			xmlhttp.open("GET", "contact.html", true);	
+			break;
+		    case "other":
+			xmlhttp.open("GET", "other.html", true);	
+			break;
+		    default:
+			xmlhttp.open("GET", "home.html", true);
+			break;
+		}
+		xmlhttp.send();
+	    }
+
+	    //  Bubble up
+	    $(function() {
+		$("div#bubbleup ul#menuBottom li.bubbleup img.bubbleup").bubbleup({tooltip: true, scale: 96});
+	    });
+
+	    //  Carlendar
+	    $("div.panel#carlendar").datepicker({
+		inline: true
+	    });
+	</script>
+
+    </body>
+</html>

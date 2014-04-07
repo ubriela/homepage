@@ -1,0 +1,36 @@
+/*http://csscreator.com/content/jquery-social-share-toolbar*/
+
+#socializethis{
+    background:#CCC;
+    border:solid 1px #666;
+    border-width: 1px 0 0 1px;
+    height:15px;
+    width:260px;
+    position:fixed;
+    bottom:0;
+    right:0;
+    padding:2px 5px;
+    overflow:hidden;
+    /* CSS3 */
+    -webkit-border-top-left-radius: 12px;
+    -moz-border-radius-topleft: 12px;
+    border-top-left-radius: 12px;
+    -moz-box-shadow: -3px -3px 3px rgba(0,0,0,0.5);
+    -webkit-box-shadow: -3px -3px 3px rgba(0,0,0,0.5);
+    box-shadow: -3px -3px 3px rgba(0,0,0,0.5);
+}
+
+#socializethis a{
+    float:left;
+    width:32px;
+    margin:3px 2px 2px 2px;
+    padding:0;
+}
+
+#socializethis span{
+    float:left;
+    margin:2px 3px;
+    text-shadow: 1px 1px 1px #FFF;
+    color:#444;
+    font-size:12px;
+} 
