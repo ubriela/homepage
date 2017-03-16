@@ -1,44 +1,58 @@
 .thumbnail {
     float: left;
-    padding: 0px 10px 10px 0px;
+    padding: 0px 0px 0px 0px;
     width:200px;
     height:200px;
 }
 
 ul li.R {
-    margin: 10px;
+    margin: 0px;
     list-style-image: url(../image/sqpurple.gif);
+    font-size: 14px;
+    color: #103C3C;
+    font-family: verdana, sans-serif;
 }
 
 ul li.I {
-    margin: 10px;
+    margin: 0px;
     list-style-image: url(../image/arr_r_red.gif);
+    font-size: 14px;
+    color: #103C3C;
+    font-family: verdana, sans-serif;
 }
 
-p.desc {
+p.desc{
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #103C3C;
+}
+
+
+p.note {
+    font-style:italic;
+}
+
+p.project {
     font-family: Tahoma, Geneva, sans-serif;
     font-size: 15px;
     line-height: 1.4;
     color: #103C3C;
 }
 
-p.note {
-    font-style:italic
-}
-
-p.project {
+/*div.bio {
     font-family: Tahoma, Geneva, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.4;
     color: #103C3C;
-}
+}*/
 
-div.bio {
+/*div#news {
     font-family: Tahoma, Geneva, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.4;
     color: #103C3C;
-}
+}*/
 
 h1 {
     letter-spacing: 6px;
@@ -93,47 +107,47 @@ root {
 
 #homepageTable
 {
-    width:110px;
+    width:100%;
     border:3px;
 }
 
 #topTable
 {
-    width:1100px;
+    width:100%;
     border:0px;
 }
 
 #top {
-    background-color:#c3c3c3;
-    height:70px;
+    background-color:#C9CFD1;
+    height:50px;
 }
 
 #bottom {
-    background-color:#c3c3c3;
+    background-color:#C9CFD1;
     text-align:center;
 }
 
 
 #leftCol {
-    background-color:#c3c3c3;
+    background-color:#C9CFD1;
     width:200px;
     text-align:left;
 }
 
 #centerCol{
-    padding-left: 10px;
+    padding-left: 20px;
     padding-top: 0px;
 }
 
 #rightCol {
     background-color:#c3c3c3;
-    width:250px;
+    width:350px;
     text-align:left;
 }
 
 p.slideToggle {
     margin:0px;
-    padding:5px;
+    padding:10px;
     text-align:left;
     background:#426d9c;
     border:solid 1px #c3c3c3;
@@ -146,12 +160,12 @@ p.slideToggle {
 div.panel
 {
     margin:0px;
-    padding:5px;
+    padding:10px;
     text-align:left;
-    background:#e5eecc;
+    background:#C9CFD1;
     border:solid 1px #c3c3c3;
-    height:240px;
-    font-size: 20px;
+    height:200px;
+    font-size: 18px;
 }
 
 div.panel#description
@@ -159,7 +173,7 @@ div.panel#description
     margin:0px;
     padding:0px;
     text-align:center;
-    background:#e5eecc;
+    background:#C9CFD1;
     border:solid 1px #c3c3c3;
     height:200px;
     font-size: 16px;
@@ -169,4 +183,11 @@ div.panel#description
     height:198px;
     width:198px;
     text-align: left;
+}
+
+div.teach {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #103C3C;
 }

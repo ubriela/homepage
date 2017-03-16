@@ -21,7 +21,7 @@ http://www.1stwebdesigner.com/tutorials/create-stay-on-top-menu-css3-jquery/
 }
 
 #navi {
-    height: 50px;
+    height: 40px;
     margin-top: 0px;
 }
 
@@ -31,18 +31,19 @@ http://www.1stwebdesigner.com/tutorials/create-stay-on-top-menu-css3-jquery/
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-
+    height: 40px;
+    /*width: 60%;*/
     line-height: 40px;
     text-align: center;
-    margin: 0 auto;
+    margin: -15px auto;
     padding: 0;
 }
 
 #content {
-    width: 750px;
+    width: 700px;
     margin: 0 auto;
-    margin-bottom: 25px;
-    padding: 30px 0;
+    margin-bottom: 15px;
+    padding: 10px 0;
     text-align: left;
 }
 
@@ -53,7 +54,7 @@ http://www.1stwebdesigner.com/tutorials/create-stay-on-top-menu-css3-jquery/
 #menu ul li {
     list-style-type: none;
     display: inline;
-    margin-right: 15px;
+    margin-right: 25px;
 }
 
 #menu ul li a {
@@ -80,7 +81,7 @@ http://www.1stwebdesigner.com/tutorials/create-stay-on-top-menu-css3-jquery/
 }
 
 .default {
-    width: 750px;
+    width: 700px;
     height: 40px;
     -webkit-box-shadow: 0 5px 20px #888;
     -moz-box-shadow: 0 5px 20px #888;
@@ -89,8 +90,8 @@ http://www.1stwebdesigner.com/tutorials/create-stay-on-top-menu-css3-jquery/
 
 .fixed {
     position: fixed;
-    top: -5px;
-    left: 0;
+    top: 0px;
+    left: 20px;
     width: 100%;
 
     -webkit-box-shadow: 0 0 40px #222;
